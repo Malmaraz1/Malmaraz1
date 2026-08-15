@@ -8,7 +8,7 @@ Desarrollador Backend enfocado en el desarrollo de software escalable, arquitect
 - 🔭 Actualmente enfocado en el desarrollo de microservicios y APIs RESTful.
 - 🎓 Estudiante de Desarrollo de Software.
 - 💡 Interesado en arquitectura de software, bases de datos y metodologías ágiles.
-- 📫 Contáctame en: **mleandroalmaraz@gmail.com** o a través de [LinkedIn](TU_LINK_DE_LINKEDIN).
+- 📫 Contáctame en: **mleandroalmaraz@gmail.com** o a través de [LinkedIn](https://www.linkedin.com/in/matias-almaraz-197005275/).
 
 ---
 
