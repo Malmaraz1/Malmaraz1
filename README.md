@@ -2,11 +2,11 @@
 
 ###
 
-<h5 data-importer="text" align="left">Estudiante de Ingeniería en Sistemas (UTN) y Desarrollador Backend especializado en el ecosistema Java (Spring Boot) y Node.js. Diseño e implemento arquitecturas de alta disponibilidad, microservicios y sistemas distribuidos bajo principios SOLID, DDD y Clean Architecture. Experiencia práctica en despliegues cloud (Azure), seguridad de APIs (JWT) y optimización de bases de datos relacionales.</h5>
+<p data-importer="text" align="left">Estudiante de Ingeniería en Sistemas (UTN) y Desarrollador Backend especializado en el ecosistema Java (Spring Boot) y Node.js. Diseño e implemento arquitecturas de alta disponibilidad, microservicios y sistemas distribuidos bajo principios SOLID, DDD y Clean Architecture. Experiencia práctica en despliegues cloud (Azure), seguridad de APIs (JWT) y optimización de bases de datos relacionales.</p>
 
 ###
 
-<h6 data-importer="text" align="left">- 🔭 Actualmente: Desarrollando soluciones backend escalables en células ágiles (Scrum) <br>- 🎓 Formación: Estudiante de Ingeniería en Sistemas de Información (UTN) y Técnico en Electrónica.<br>- 💻 **Stack Principal:** Java (17+), Spring Boot, Spring Cloud, PostgreSQL, Docker, Azure y RabbitMQ.<br>- 📫 Contacto: **mleandroalmaraz@gmail.com** o a través de [LinkedIn](https://www.linkedin.com/in/matias-almaraz-197005275/).</h6>
+<p data-importer="text" align="left">- 🔭 Actualmente: Desarrollando soluciones backend escalables en células ágiles (Scrum) <br>- 🎓 Formación: Estudiante de Ingeniería en Sistemas de Información (UTN) y Técnico en Electrónica.<br>- 💻 Stack Principal: Java (17+), Spring Boot, Spring Cloud, PostgreSQL, Docker, Azure y RabbitMQ.<br>- 📫 Contacto: **mleandroalmaraz@gmail.com** o a través de [LinkedIn](https://www.linkedin.com/in/matias-almaraz-197005275/).</p>
 
 ###
 
