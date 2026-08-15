@@ -18,92 +18,92 @@
 
 ###
 
-<div data-importer="techs" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div align="center">
+<div data-importer="techs" align="center">
+  <div style="display: inline-block; width: 60px; margin: 10px 5px; vertical-align: top;" align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" /><br />
     <sub><b>Spring</b></sub>
   </div>
-  <div align="center">
+  <div style="display: inline-block; width: 60px; margin: 10px 5px; vertical-align: top;" align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" /><br />
     <sub><b>Java</b></sub>
   </div>
-  <div align="center">
+  <div style="display: inline-block; width: 60px; margin: 10px 5px; vertical-align: top;" align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" /><br />
     <sub><b>MySQL</b></sub>
   </div>
-  <div align="center">
+  <div style="display: inline-block; width: 60px; margin: 10px 5px; vertical-align: top;" align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" /><br />
     <sub><b>PostgreSQL</b></sub>
   </div>
-  <div align="center">
+  <div style="display: inline-block; width: 60px; margin: 10px 5px; vertical-align: top;" align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" /><br />
     <sub><b>MongoDB</b></sub>
   </div>
-  <div align="center">
+  <div style="display: inline-block; width: 60px; margin: 10px 5px; vertical-align: top;" align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" /><br />
     <sub><b>Docker</b></sub>
   </div>
-  <div align="center">
+  <div style="display: inline-block; width: 60px; margin: 10px 5px; vertical-align: top;" align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo" /><br />
     <sub><b>AWS</b></sub>
   </div>
-  <div align="center">
+  <div style="display: inline-block; width: 60px; margin: 10px 5px; vertical-align: top;" align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /><br />
     <sub><b>JavaScript</b></sub>
   </div>
-  <div align="center">
+  <div style="display: inline-block; width: 60px; margin: 10px 5px; vertical-align: top;" align="center">
     <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo" /><br />
     <sub><b>HTML5</b></sub>
   </div>
-  <div align="center">
+  <div style="display: inline-block; width: 60px; margin: 10px 5px; vertical-align: top;" align="center">
     <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo" /><br />
     <sub><b>CSS3</b></sub>
   </div>
-  <div align="center">
+  <div style="display: inline-block; width: 60px; margin: 10px 5px; vertical-align: top;" align="center">
     <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" /><br />
     <sub><b>Postman</b></sub>
   </div>
-  <div align="center">
+  <div style="display: inline-block; width: 60px; margin: 10px 5px; vertical-align: top;" align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /><br />
     <sub><b>React</b></sub>
   </div>
-  <div align="center">
+  <div style="display: inline-block; width: 60px; margin: 10px 5px; vertical-align: top;" align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" /><br />
     <sub><b>Node.js</b></sub>
   </div>
-  <div align="center">
+  <div style="display: inline-block; width: 60px; margin: 10px 5px; vertical-align: top;" align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" /><br />
     <sub><b>C++</b></sub>
   </div>
-  <div align="center">
+  <div style="display: inline-block; width: 60px; margin: 10px 5px; vertical-align: top;" align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /><br />
     <sub><b>Git</b></sub>
   </div>
-  <div align="center">
+  <div style="display: inline-block; width: 60px; margin: 10px 5px; vertical-align: top;" align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" /><br />
     <sub><b>GitHub</b></sub>
   </div>
-  <div align="center">
+  <div style="display: inline-block; width: 60px; margin: 10px 5px; vertical-align: top;" align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="haskell logo" /><br />
     <sub><b>Haskell</b></sub>
   </div>
-  <div align="center">
+  <div style="display: inline-block; width: 60px; margin: 10px 5px; vertical-align: top;" align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" /><br />
     <sub><b>Jest</b></sub>
   </div>
-  <div align="center">
+  <div style="display: inline-block; width: 60px; margin: 10px 5px; vertical-align: top;" align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" /><br />
     <sub><b>Linux</b></sub>
   </div>
-  <div align="center">
+  <div style="display: inline-block; width: 60px; margin: 10px 5px; vertical-align: top;" align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo" /><br />
     <sub><b>Notion</b></sub>
   </div>
-  <div align="center">
+  <div style="display: inline-block; width: 60px; margin: 10px 5px; vertical-align: top;" align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo" /><br />
     <sub><b>Nginx</b></sub>
   </div>
-  <div align="center">
+  <div style="display: inline-block; width: 60px; margin: 10px 5px; vertical-align: top;" align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /><br />
     <sub><b>Python</b></sub>
   </div>
