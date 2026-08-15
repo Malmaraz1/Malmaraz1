@@ -6,7 +6,7 @@
 
 ###
 
-<p data-importer="text" align="left">- 🔭 Actualmente: Desarrollando soluciones backend escalables en células ágiles (Scrum) <br>- 🎓 Formación: Estudiante de Ingeniería en Sistemas de Información (UTN) y Técnico en Electrónica.<br>- 💻 Stack Principal: Java (17+), Spring Boot, Spring Cloud, PostgreSQL, Docker, Azure y RabbitMQ.<br>- 📫 Contacto: **mleandroalmaraz@gmail.com** o a través de [LinkedIn](https://www.linkedin.com/in/matias-almaraz-197005275/).</p>
+<p data-importer="text" align="left">- 🔭 Actualmente: Desarrollando soluciones backend escalables en células ágiles (Scrum) <br>- 🎓 Formación: Estudiante de Ingeniería en Sistemas de Información (UTN) y Técnico en Electrónica.<br>- 💻 Stack Principal: Java (17+), Spring Boot, Spring Cloud, PostgreSQL, Docker, Azure y RabbitMQ.<br>- 📫 Contacto: mleandroalmaraz@gmail.com o a través de [LinkedIn](https://www.linkedin.com/in/matias-almaraz-197005275/).</p>
 
 ###
 
